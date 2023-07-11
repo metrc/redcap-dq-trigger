@@ -1,0 +1,21 @@
+{
+  "name": "Data Quality Trigger",
+  "description": "Data Quality Rule Trigger",
+  "documentation": "README.md",
+  "namespace": "METRC\\DQTrigger",
+  "versions": [
+    {
+      "0.1.0": "Initial Development Version"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Paige Julianne Sullivan",
+      "email": "psullivan@jhu.edu",
+      "institution": "Johns Hopkins Bloomberg School of Public Health - METRC"
+    }
+  ],
+  "permissions": [
+  ],
+  "no-auth-pages":["trigger"]
+}
