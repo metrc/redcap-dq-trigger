@@ -1,5 +1,5 @@
 {
-  "name": "Data Quality Trigger",
+  "name": "Data Quality Rule Trigger",
   "description": "Data Quality Rule Trigger",
   "documentation": "README.md",
   "namespace": "METRC\\DQTrigger",
