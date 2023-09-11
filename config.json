@@ -17,5 +17,6 @@
   ],
   "permissions": [
   ],
-  "no-auth-pages":["trigger"]
+  "no-auth-pages":["trigger"],
+  "framework-version": 12
 }
