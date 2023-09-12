@@ -15,8 +15,7 @@
       "institution": "Johns Hopkins Bloomberg School of Public Health - METRC"
     }
   ],
-  "permissions": [
-  ],
+
   "no-auth-pages":["trigger"],
   "framework-version": 12
 }
